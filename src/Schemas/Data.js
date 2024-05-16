@@ -74,7 +74,7 @@ export const Data = {
       {
         title: "STAGE",
         period: "Feb. 2023 - Mei 2023",
-        company: "Optimize-IT",
+        company: "SmartEye",
         description: [
           "API ontwikkeld voor de interactie tussen een laadpaal en een systeem genaamd Loxone",
           "Research gedaan rondom de blockchain technologie voor mijn eindwerk"
