@@ -16,23 +16,24 @@ export const Data = {
     technicalLabel: "Hard Skills",
     softLabel: "Soft Skills",
     technicalSkills: [
-      "React: JavaScript framework",
+      "HTML, JS, CSS",
       "Laravel: PHP framework",
       "Python: FastAPI, Flask",
       "Java",
       "Solidity",
-      "Thirdweb: front-end web3 framework",
+      "Thirdweb: front-end web3 JS framework",
       "SQL",
       "Git",
+      "React: JS framework ~ junior kennis",	
       "ERP: SAP ~ junior kennis",
       "CRM: Salesforce ~ junior kennis",
-      "Microsoft Power Platform: Power Apps, Power Automate, Power Bi"
+      "Microsoft Power Platform: Power Apps, Power Automates"
     ],
     softSkills: [
       "Leergierig",
-      "Optimistisch",
       "Sociaal",
-      "Diverse nieuwschierigheden zowel binnen en buiten IT"
+      "Diverse nieuwschierigheden zowel binnen en buiten IT",
+      "Doordenker"
     ],
   },
   socialMedia: {
