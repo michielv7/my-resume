@@ -27,7 +27,7 @@ export const Data = {
       "React: JS framework ~ junior kennis",	
       "ERP: SAP ~ junior kennis",
       "CRM: Salesforce ~ junior kennis",
-      "Microsoft Power Platform: Power Apps, Power Automates",
+      "Microsoft Power Platform: Power Apps, Power Automate",
       "SharePoint",
     ],
     softSkills: [
