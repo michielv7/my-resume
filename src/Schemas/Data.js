@@ -10,7 +10,7 @@ export const Data = {
   aboutMe: {
     label: "Over Mij",
     description:
-      "Ambitieuse tech (nerd) die nieuwschierig is naar het vinden van diverse applicatie oplossingen."
+      "Ambitieus met IT en nieuwschierig naar het vinden van diverse applicatie oplossingen."
   },
   skills: {
     technicalLabel: "Hard Skills",
